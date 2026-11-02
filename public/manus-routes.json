@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "AI Mystery Room" },
+    { "path": "/dashboard", "title": "Investigation Hall" },
+    { "path": "/investigation", "title": "The Bell Tower Murder" },
+    { "path": "/resolution", "title": "Case Resolution" }
+  ]
+}
